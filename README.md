@@ -1,4 +1,4 @@
-# SEAFORM (SEAsonal FORecasts Management tool)
+# SEAFORM (SEAsonal FORecasts Management platform)
 
 Seasonal forecasts are attracting attentions since the 2000s. Unlike forecasts at shorter timescales, 
 which aim to predict individual events, seasonal forecasts aim at predicting medium-and long-term periods 
@@ -16,6 +16,7 @@ with bias correction and skill assessment by using CRPSS (Continuous Ranked Prob
 Thus, this code is comprised of 4 parts;
 
 <img src="util/images/SEAFORM_Modules.jpg" width="1050" height="770">
+
 
 Let's start by downloading all the Jupyter Notebook files and folders (util, assessment)
 
