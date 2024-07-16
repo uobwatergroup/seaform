@@ -1,21 +1,11 @@
 # SEAFORM (SEAsonal FORecasts Management platform)
 
-Seasonal forecasts are attracting attentions since the 2000s. Unlike forecasts at shorter timescales, 
-which aim to predict individual events, seasonal forecasts aim at predicting medium-and long-term periods 
-up to 7 months (Arnal et al., 2018). 
+Since the 2000s, seasonal forecasts have gained significant attention. Unlike short-term forecasts, which predict individual events, seasonal forecasts aim to predict medium- to long-term periods of up to 7 months (Arnal et al., 2018).
 
-These forecasts hold the potential for being of great value for a wide range of stakeholders 
-who are affected by the climate and who would benefit from understanding and better managing 
-climate‐related risks (Bruno Soares et al., 2016). For example, this forecasting technology can be 
-utilized to predict future precipitation, temperature, and runoff, thereby issuing early warnings 
-for disasters such as droughts and heat/cold waves.
+These forecasts can be extremely valuable for a wide range of stakeholders affected by climate, helping them to understand and better manage climate-related risks (Bruno Soares et al., 2016). For example, this forecasting technology can predict future precipitation, temperature, and runoff, allowing for early warnings of disasters such as droughts and heat/cold waves.
 
-In order to apply this technology in practice, you should assess its skill first. 
-This code is developed to support you to manage seasonal forecasts datasets more easily and effectively. 
-It enables you to download seasonal forecasts datasets, extract them as time-series, and analyse them 
-with bias correction and skill assessment by using CRPSS (Continuous Ranked Probability Skill Score) method.
-
-Thus, this code is comprised of 4 parts;
+Additionally, this code can be linked to our SEAsonal FLOW forecasts platform (SEAFLOW). Seasonal meteorological forecast data (such as precipitation, temperature, etc.) obtained from SEAFORM can be easily and efficiently translated into flow forecasts using SEAFLOW (https://github.com/uobwatergroup/seaflow).
+To effectively use seasonal forecasts, their accuracy and reliability must be assessed and validated. This code is designed to help you manage seasonal forecast datasets more easily and effectively. It enables you to download seasonal forecast datasets, extract them as time series, and analyze them with bias correction and skill assessment using the CRPSS (Continuous Ranked Probability Skill Score) method.
 
 <img src="util/images/SEAFORM_Modules.jpg" width="1050" height="720">
 
