@@ -6,7 +6,9 @@ up to 7 months (Arnal et al., 2018).
 
 These forecasts hold the potential for being of great value for a wide range of stakeholders 
 who are affected by the climate and who would benefit from understanding and better managing 
-climate‐related risks (Bruno Soares et al., 2016).
+climate‐related risks (Bruno Soares et al., 2016). For example, this forecasting technology can be 
+utilized to predict future precipitation, temperature, and runoff, thereby issuing early warnings 
+for disasters such as droughts and heat/cold waves.
 
 In order to apply this technology in practice, you should assess its skill first. 
 This code is developed to support you to manage seasonal forecasts datasets more easily and effectively. 
