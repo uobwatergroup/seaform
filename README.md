@@ -17,7 +17,7 @@ with bias correction and skill assessment by using CRPSS (Continuous Ranked Prob
 
 Thus, this code is comprised of 4 parts;
 
-<img src="util/images/SEAFORM_Modules.jpg" width="1050" height="750">
+<img src="util/images/SEAFORM_Modules.jpg" width="1050" height="720">
 
 
 Let's start by downloading all the Jupyter Notebook files and folders (util, assessment)
