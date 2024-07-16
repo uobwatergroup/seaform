@@ -1,6 +1,6 @@
 # SEAFORM (SEAsonal FORecasts Management platform)
 
-Since the 2000s, seasonal forecasts have gained significant attention. Unlike short-term forecasts, which predict individual events, seasonal forecasts aim to predict medium- to long-term periods of up to 7 months (Arnal et al., 2018).
+Since the 2000s, seasonal forecasts have gained significant attention. Unlike short-term forecasts, which predict individual events, <b> seasonal forecasts aim to predict medium- to long-term periods of up to 7 months </b> (Arnal et al., 2018).
 
 These forecasts can be extremely valuable for a wide range of stakeholders affected by climate, helping them to understand and better manage climate-related risks (Bruno Soares et al., 2016). For example, this forecasting technology can predict future precipitation, temperature, and runoff, allowing for early warnings of disasters such as droughts and heat/cold waves.
 
