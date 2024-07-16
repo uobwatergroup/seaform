@@ -8,7 +8,7 @@ These forecasts can be extremely valuable for a wide range of stakeholders affec
 
 To effectively use seasonal forecasts, their accuracy and reliability must be assessed and validated. This code is designed to help you manage seasonal forecast datasets more easily and effectively. It enables you to download seasonal forecast datasets, extract them as time series, and analyze them with bias correction and skill assessment using the CRPSS (Continuous Ranked Probability Skill Score) method.
 
-<img src="util/images/SEAFORM_Modules.jpg" width="1050" height="770">
+<img src="util/images/SEAFORM_Modules.jpg" width="1050" height="790">
 
 
 Let's get started by downloading all the Jupyter Notebook files and folders (util, assessment)
