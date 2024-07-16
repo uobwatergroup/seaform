@@ -10,7 +10,7 @@ To effectively use seasonal forecasts, their accuracy and reliability must be as
 
 <b> ※ For more details about Seasonal Meteorological Forecasts, please refer to our study (https://doi.org/10.1002/joc.8134).</b>
 
-<img src="util/images/SEAFORM_Modules_f.jpg" width="1050" height="850">
+<img src="util/images/SEAFORM_Modules_ff.jpg" width="1050" height="850">
 
 
 Let's get started by downloading all the Jupyter Notebook files and folders (including util, assessment folders)
