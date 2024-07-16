@@ -11,6 +11,6 @@ To effectively use seasonal forecasts, their accuracy and reliability must be as
 <img src="util/images/SEAFORM_Modules_f.jpg" width="1050" height="850">
 
 
-Let's get started by downloading all the Jupyter Notebook files and folders (util, assessment)
+Let's get started by downloading all the Jupyter Notebook files and folders (including util, assessment folders)
 
 If you find any errors or any comments on this tool, <b>please email me(ocean47ys@gmail.com).</b>
